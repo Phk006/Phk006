@@ -1,6 +1,6 @@
                                                     # Hi 👋, I'm Prajwal HK
 
-                                                 
+                             file:///C:/Users/PRAJWAL%20HK/OneDrive/%E7%94%BB%E5%83%8F/Screenshots/Screenshot%202026-08-31%20144318.png                    
 
 ### B.Tech ISE '28 | AI & ML Enthusiast | Python Developer
 
