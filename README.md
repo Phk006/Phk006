@@ -1,4 +1,7 @@
-# Hi 👋, I'm Prajwal HK
+                                                    # Hi 👋, I'm Prajwal HK
+
+                                                   <img width="755" height="585" alt="image" src="https://github.com/user-attachments/assets/908657fd-8f0a-4928-bc5c-d7ac6e7f0909" />
+
 
 ### B.Tech ISE '28 | AI & ML Enthusiast | Python Developer
 
