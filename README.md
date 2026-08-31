@@ -28,6 +28,7 @@ into working prototypes.
 
 - LinkedIn: www.linkedin.com/in/prajwal-hk-224895309
 - X: https://x.com/PrajwalHK679695
+- Certificates Drive : https://drive.google.com/drive/folders/1bKiDCH9skcuZG73QJJ8ZiLRzP1RpQHnY?usp=drive_link
 
 ---
 
