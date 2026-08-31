@@ -32,21 +32,21 @@ into working prototypes.
 
 ## 🚀 Featured Projects
 
- Carbonzy - https://phk006.github.io/CARBONZY/
+- Carbonzy - https://phk006.github.io/CARBONZY/
 
 Personalized carbon footprint tracking and Carbon Credit Score platform.
 
- Saksham AI - https://saksham-ai-jui8.vercel.app/
+- Saksham AI - https://saksham-ai-jui8.vercel.app/
 
 Short-form educational platform focused on making technical learning
 more accessible through AI-powered content.
 
- Namma Bengaluru AI - https://design-a-modern-mobile-first-and.vercel.app/
+- Namma Bengaluru AI - https://design-a-modern-mobile-first-and.vercel.app/
 
 AI-powered city discovery platform for exploring Bengaluru's communities,
 events and opportunities.
 
- Collab-Code - https://workflow-redesign.vercel.app/
+ - Collab-Code - https://workflow-redesign.vercel.app/
 
 Real-time collaborative coding platform for technical interviews, pair programming, and code reviews.
 
@@ -54,7 +54,7 @@ An interactive coding environment where developers can write, share, and review 
 
 Focus: Real-time Collaboration • AI • Developer Tools • Technical Interviews • Pair Programming
 
-Buildproof - https://buildproof-jixwjrkd.manus.space/
+- Buildproof - https://buildproof-jixwjrkd.manus.space/
 
 BuildProof is an AI-powered engineering feasibility platform that helps builders determine whether a hardware idea is actually ready to build. Its unique Proof Chain maps every requirement, assumption, calculation, and constraint into a transparent dependency chain, showing what is proven, what is unknown, what failed, and exactly what needs to be verified next—before time and money are wasted on a prototype.
 
