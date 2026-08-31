@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Prajwal HK
 
-<!--
-**Phk006/Phk006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech ISE '28 | AI & ML Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+I build AI-powered products, experiment with GenAI, and turn ideas
+into working prototypes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Work With
+
+- Python
+- AI / Machine Learning
+- Generative AI
+- LLMs
+- RAG
+- LangChain
+- Next.js
+- Firebase
+- Vercel
+
+### 🔭 Currently Working On
+
+- AI-powered applications
+- Developer tools
+- Startup ideas
+- Open-source projects
+
+### 🌐 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- X: YOUR_X_URL
+
+---
+
+⭐ Thanks for visiting my profile!
