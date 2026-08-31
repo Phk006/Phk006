@@ -26,8 +26,8 @@ into working prototypes.
 
 ### 🌐 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- X: YOUR_X_URL
+- LinkedIn: www.linkedin.com/in/prajwal-hk-224895309
+- X: https://x.com/PrajwalHK679695
 
 ---
 
